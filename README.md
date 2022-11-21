@@ -1,52 +1,63 @@
-IBM-Project-51434-1665471200
-
-SMART FASHION RECOMMENDER APPLICATION
-
-DOMAIN NAME : CLOUD APPLICATION DEVELOPMENT
-
-TEAM ID : PNT2022TMID43863
-
-TEAM LEAD - ZAID ALAM
-
-TEAM MEMBER 1 - ABHIJITH A
-
-TEAM MEMBER 2 - JASAR MUHAMMED
-
-TEAM MEMBER 3 - VISHNU PUTHUVAKKAL
-
-
-
-We have come up with a new innovative solution through which you can directly do your online shopping based on your choice without any search. It can be done by using the chatbot.
-
-In this project you will be working on two modules :
-
-Admin and
-
-User
-
-Admin:
-
-The role of the admin is to check out the database about the stock and have a track of all the things that the users are purchasing.
-
-User :
-
+About this Project
 The user will login into the website and go through the products available on the website. Instead of navigating to several screens for booking products online, the user can directly talk to Chatbot regarding the products. Get the recommendations based on information provided by the user.
 
-Features of Chatbot :
-
-Using chatbot we can manage user's choices and orders.
-
-The chatbot can give recommendations to the users based on their interests.
-
-It can promote the best deals and offers on that day.
-
-It will store the customer's details and orders in the database.
-
-The chatbot will send a notification to customers if the order is confirmed.
-
-Chatbots can also help in collecting customer feedback.
 
 
+About TEAM
+Batch Name : B4-4M6E
 
-![Untitled](https://user-images.githubusercontent.com/54689741/198935201-6688ae0c-255f-419e-8a08-1915b6c460bf.png)
+Team ID : PNT2022TMID43863
 
+Team Leader : ZAID ALAM
+
+Team member : ABHIJITH A
+
+Team member : JASAR MUHHAMED
+
+Team member : VISHNU PUTTHUVAKKAL
+
+MENTOR
+
+Industry Mentor(s) Name : Krishna Chaitanya
+
+Faculty Mentor(s) Name : Ramajayam n
+
+ABOUT COLLAGE
+
+Degree : Bachelor of Engineering
+
+Branch : Computer Science Engineering
+
+College : DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING
+
+ASSIGNMENT
+
+Team Leader : ZAID ALAM
+Team member : ABHIJITH A
+Team member : JASAR MUHHAMED
+Team member : VISHNU PUTTHUVAKKAL
+
+PROJECT PLANNING & DESIGNING PHASE
+
+Ideation Phase
+Project Design Phase 1
+Project Design Phase II
+Project Planning
+
+TECHNOLOGY STACK
+
+Frontend: Html+Css+JavaScript
+Backend: Python, Flask , Docker
+Database: IBM DB2
+
+AUTHORS
+
+@ZAID ALAM
+@ABHIJITH A
+@JASAR MUHAMMED
+@VISHNU PUTTHUVAKKAL
+
+FEEDBACK
+If you have any feedback, please reach out to us at Zaidalam190@gmail.com
+
+![image](https://user-images.githubusercontent.com/54689741/203009227-b93cf8fc-2d95-43da-9c02-308ca6c87c2e.png)

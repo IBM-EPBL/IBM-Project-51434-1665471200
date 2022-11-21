@@ -1,33 +1,27 @@
 About this Project
+
 The user will login into the website and go through the products available on the website. Instead of navigating to several screens for booking products online, the user can directly talk to Chatbot regarding the products. Get the recommendations based on information provided by the user.
 
 
 
 About TEAM
+
 Batch Name : B4-4M6E
-
 Team ID : PNT2022TMID43863
-
 Team Leader : ZAID ALAM
-
 Team member : ABHIJITH A
-
 Team member : JASAR MUHHAMED
-
 Team member : VISHNU PUTTHUVAKKAL
 
 MENTOR
 
 Industry Mentor(s) Name : Krishna Chaitanya
-
 Faculty Mentor(s) Name : Ramajayam n
 
 ABOUT COLLAGE
 
 Degree : Bachelor of Engineering
-
 Branch : Computer Science Engineering
-
 College : DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING
 
 ASSIGNMENT
@@ -52,10 +46,10 @@ Database: IBM DB2
 
 AUTHORS
 
-@ZAID ALAM
-@ABHIJITH A
-@JASAR MUHAMMED
-@VISHNU PUTTHUVAKKAL
+ @ZAID ALAM
+ @ABHIJITH A
+ @JASAR MUHAMMED
+ @VISHNU PUTTHUVAKKAL
 
 FEEDBACK
 If you have any feedback, please reach out to us at Zaidalam190@gmail.com

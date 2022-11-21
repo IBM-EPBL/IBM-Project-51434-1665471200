@@ -1,62 +1,175 @@
+
+# Smart fashion Recommendation System
+
+We have come up with a new innovative solution through which you can directly do your online shopping based on your choice without any search. It can be done by using the chatbot.
+
 https://youtu.be/UDckO1Rd6Bw
 
-About this Project
 
-The user will login into the website and go through the products available on the website. Instead of navigating to several screens for booking products online, the user can directly talk to Chatbot regarding the products. Get the recommendations based on information provided by the user.
+## About Team
 
-![image](https://user-images.githubusercontent.com/54689741/203010900-0114c949-b1d4-43ed-a645-d4911466cfd2.png)
-![image](https://user-images.githubusercontent.com/54689741/203010981-8b0e3b06-2d1e-43c8-b3f0-9d808449e59f.png)
+Batch Name : B4-4m6E
 
-
-
-About TEAM
-
-Batch Name : B4-4M6E
 Team ID : PNT2022TMID43863
-Team Leader : ZAID ALAM
-Team member : ABHIJITH A
-Team member : JASAR MUHHAMED
-Team member : VISHNU PUTTHUVAKKAL
 
-MENTOR
+
+Team Leader : Zaid Alam
+
+Team Member : Abhijith A
+
+Team Member : Jasar Muhammed
+
+Team Member : Vishnu Putthuvakkal
+
+
+
+
+## Mentor
 
 Industry Mentor(s) Name : Krishna Chaitanya
+
 Faculty Mentor(s) Name : Ramajayam n
 
-ABOUT COLLAGE
+
+
+
+## About Collage
 
 Degree : Bachelor of Engineering
+
 Branch : Computer Science Engineering
-College : DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING
 
-ASSIGNMENT
+College : Dhanalakshmi srinivasan Collage OF Engineering
 
-Team Leader : ZAID ALAM
-Team member : ABHIJITH A
-Team member : JASAR MUHHAMED
-Team member : VISHNU PUTTHUVAKKAL
 
-PROJECT PLANNING & DESIGNING PHASE
+## Assignment
+Team Leader : Zaid Alam
+
+Team Member : Abhijith A
+
+Team Member : Jasar Muhammed
+
+Team Member : Vishnu Putthuvakkal
+
+
+## Project Design & Planning
 
 Ideation Phase
-Project Design Phase 1
+
+Project Design Phase I
+
 Project Design Phase II
+
 Project Planning
-
-TECHNOLOGY STACK
-
+## Tech Stack
 Frontend: Html+Css+JavaScript
+
 Backend: Python, Flask , Docker
+
 Database: IBM DB2
 
-AUTHORS
 
- @ZAID ALAM
- @ABHIJITH A
- @JASAR MUHAMMED
- @VISHNU PUTTHUVAKKAL
+## Authors
+@Zaid Alam
 
-FEEDBACK
+@Abhijith A
+
+@Jasar Muhammed
+
+@Vishnu Putthuvakkal
+
+
+
+
+##  Feedback
+
 If you have any feedback, please reach out to us at Zaidalam190@gmail.com
 
-![image](https://user-images.githubusercontent.com/54689741/203009227-b93cf8fc-2d95-43da-9c02-308ca6c87c2e.png)
+
+# Smart fashion Recommendation System
+
+We have come up with a new innovative solution through which you can directly do your online shopping based on your choice without any search. It can be done by using the chatbot.
+
+
+
+
+## About Team
+
+Batch Name : B4-4m6E
+
+Team ID : PNT2022TMID43863
+
+
+Team Leader : Zaid Alam
+
+Team Member : Abhijith A
+
+Team Member : Jasar Muhammed
+
+Team Member : Vishnu Putthuvakkal
+
+
+
+
+## Mentor
+
+Industry Mentor(s) Name : Krishna Chaitanya
+
+Faculty Mentor(s) Name : Ramajayam n
+
+
+
+
+## About Collage
+
+Degree : Bachelor of Engineering
+
+Branch : Computer Science Engineering
+
+College : Dhanalakshmi srinivasan Collage OF Engineering
+
+
+## Assignment
+Team Leader : Zaid Alam
+
+Team Member : Abhijith A
+
+Team Member : Jasar Muhammed
+
+Team Member : Vishnu Putthuvakkal
+
+
+## Project Design & Planning
+
+Ideation Phase
+
+Project Design Phase I
+
+Project Design Phase II
+
+Project Planning
+## Tech Stack
+Frontend: Html+Css+JavaScript
+
+Backend: Python, Flask , Docker
+
+Database: IBM DB2
+
+
+## Authors
+@Zaid Alam
+
+@Abhijith A
+
+@Jasar Muhammed
+
+@Vishnu Putthuvakkal
+
+
+
+
+##  Feedback
+
+If you have any feedback, please reach out to us at Zaidalam190@gmail.com
+
+![image](https://user-images.githubusercontent.com/54689741/203025686-7fa12a31-018c-4292-b2fd-daec4b6ede3c.png)

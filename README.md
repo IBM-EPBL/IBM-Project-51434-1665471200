@@ -5,7 +5,6 @@ About this Project
 The user will login into the website and go through the products available on the website. Instead of navigating to several screens for booking products online, the user can directly talk to Chatbot regarding the products. Get the recommendations based on information provided by the user.
 
 ![image](https://user-images.githubusercontent.com/54689741/203010900-0114c949-b1d4-43ed-a645-d4911466cfd2.png)
-![image](https://user-images.githubusercontent.com/54689741/203010943-93ef70d7-29cc-4d51-8617-4ff29f614879.png)
 ![image](https://user-images.githubusercontent.com/54689741/203010981-8b0e3b06-2d1e-43c8-b3f0-9d808449e59f.png)
 
 
